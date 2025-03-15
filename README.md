@@ -1,4 +1,5 @@
 # To-Do List Project
+      HEAD
 # 📝 To-Do List
 
 A simple To-Do List application to help manage tasks efficiently.
@@ -18,3 +19,16 @@ A simple To-Do List application to help manage tasks efficiently.
 1. Clone the repository:
    ```bash
    git clone https://github.com/student-piyush25/To-Do-List.git
+            
+# To-Do List
+
+A simple Python-based To-Do List application.
+
+## Features:
+- View tasks
+- Add new tasks
+- Delete completed tasks
+
+## How to Run:
+1. Clone this repository:
+       7764952 (Added project description in README)
